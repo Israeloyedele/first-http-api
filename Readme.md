@@ -17,7 +17,7 @@ The project showcases the following CRUD Operations:
 
 #### Get all customers
 
-```http
+```
   GET /customer
 
   Returns a list of all cutomers
@@ -38,7 +38,7 @@ The project showcases the following CRUD Operations:
 
 #### Create new customer
 
-```http
+```
   POST /cutomer
 
   Receives the new customer's information and saves it
@@ -46,7 +46,7 @@ The project showcases the following CRUD Operations:
 
 #### Remove a customer
 
-```http
+```
   DELETE /customer/{id}
 
   Removes a customer by id
@@ -61,7 +61,7 @@ The project showcases the following CRUD Operations:
 
 #### Get all orders
 
-```http
+```
   GET /order
 
   Returns a list of all orders
@@ -70,7 +70,7 @@ The project showcases the following CRUD Operations:
 
 #### Get a single order
 
-```http
+```
   GET /order/{id}
 
   Returns a single order by id
@@ -82,7 +82,7 @@ The project showcases the following CRUD Operations:
 
 #### Get a single order's total
 
-```http
+```
   GET /order/{id}/total
 
   Returns an order's total
