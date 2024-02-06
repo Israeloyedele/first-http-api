@@ -20,7 +20,7 @@ The project showcases the following CRUD Operations:
 ```
   GET /customer
 
-  Returns a list of all cutomers
+  Returns a list of all customers
 ```
 
 
@@ -39,7 +39,7 @@ The project showcases the following CRUD Operations:
 #### Create new customer
 
 ```
-  POST /cutomer
+  POST /customer
 
   Receives the new customer's information and saves it
 ```
