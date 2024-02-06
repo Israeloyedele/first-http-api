@@ -112,7 +112,6 @@ The project showcases the following CRUD Operations:
 The project uses the following dependencies:
 
 - Ktor: A framework for building asynchronous servers and clients
-- Ktor Authentication: Provides authentication capabilities for Ktor applications
 - KTorm: A SQL-centric Kotlin ORM library
 
 ## LinkedIn Profile
