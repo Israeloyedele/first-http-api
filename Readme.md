@@ -26,7 +26,7 @@ The project showcases the following CRUD Operations:
 
 #### Get a customer
 
-```http
+```
   GET /customer/{id}
 
   Returns a single customer by id
